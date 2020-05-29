@@ -1,0 +1,1 @@
+exports.ids=[6],exports.modules={205:function(t,e,r){"use strict";r.r(e);var h={},l=r(22),component=Object(l.a)(h,(function(){var t=this.$createElement;return(this._self._c||t)("div",[this._ssrNode("<h1>"+this._ssrEscape("我是user"+this._s(this.$route.params.id))+"</h1>")])}),[],!1,null,null,"0e81832a");e.default=component.exports}};
